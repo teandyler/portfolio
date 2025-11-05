@@ -4,21 +4,21 @@ import Image from "next/image";
 
 const caseStudies = [
   {
-    title: "Resident Onboarding Experience",
+    title: "Resident Portal Payments",
     role: "Director of UX • 2024",
-    summary: "Reduced time-to-complete by 38% through task-based flows.",
+    summary: "Major usability improvements to the resident portal payments experience and added several new payment channels.",
     href: "#",
   },
   {
-    title: "Design Advocacy Program",
-    role: "Org-wide initiative",
-    summary: "Lifted design consistency across 6 product teams.",
+    title: "Design System Templates",
+    role: "Director of UX • 2025",
+    summary: "Created a library of design system templates for use across the organization.",
     href: "#",
   },
   {
     title: "AI-Assisted Spec Catalyst",
     role: "Product vision & UX",
-    summary: "Improved PM-to-design handoff and prototyping speed.",
+    summary: "Created a prototype for a new AI-assisted spec catalyst tool that would help product leads generate specs faster.",
     href: "#",
   },
 ];
